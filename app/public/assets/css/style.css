@@ -1,0 +1,47 @@
+body {
+  background-image: url('../images/clean-gray-paper.png');
+  font-family: 'Gothic A1', sans-serif;
+  padding-top: 50px;
+}
+.jumbotron, .card {
+  padding-bottom: 30px;
+  background-color: #546e69;
+  border-style: ridge;
+  border-color: #00303f;
+  border-width: 14px;
+  color: #fff
+}
+.survey-button {
+  text-align: center
+}
+.card {
+  border-radius: 8px;
+  padding: 30px;
+  border-style: ridge;
+  border-color: #00303f;
+  border-width: 14px;
+  color: #fff;
+  margin-bottom: 30px;
+}
+.btn {
+  margin-top: 20px;
+  background-color: #00303f;
+  color: #fff;
+  border: 1px solid #00303f
+}
+.survey-title {
+  text-align: center
+}
+#submit {
+  background-color: #00303f;
+  color: #fff
+}
+.display-4, .jumbo-h3{
+  text-align: center;
+}
+.form-control {
+  width: 50%
+}
+footer {
+  text-align: center
+}
