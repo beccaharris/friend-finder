@@ -1,5 +1,7 @@
 # Friend Finder
-#### This app allows users to fill out a short 10-question survey and then matches the user with a new "friend," it's similar to a dating app. 
+#### This app allows users to fill out a short 10-question survey and then matches the user with a new "friend," it's similar to a dating app.
+
+ 
 
 ## Getting Started 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 

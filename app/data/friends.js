@@ -1,9 +1,5 @@
 var friendsArray = [
   {
-    name: 'Becca Harris',
-    picture: "https://avatars3.githubusercontent.com/u/19537592?s=400&u=0808ab4d9ce216cccdd177e0f31e855f55c35bd2&v=4",
-    scores: [5, 2, 3, 2, 3, 1, 3, 1, 4, 5]
-  }, {
     name: 'Abe Rudder',
     picture: "https://images-na.ssl-images-amazon.com/images/M/MV5BNjI4Mzk4NjQwOF5BMl5BanBnXkFtZTgwNjMzOTcwNDI@._CR381,31,585,585_UX402_UY402._SY201_SX201_AL_.jpg",
     scores: [5, 1, 5, 4, 1, 4, 3, 2, 1, 5]
